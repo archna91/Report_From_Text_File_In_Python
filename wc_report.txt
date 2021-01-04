@@ -1,0 +1,15 @@
+# The total word count : 218
+# Total of unique words : 140
+
+# The top 10 words based on their word count, showing the word and how many times it appeared : 
+Word - Count
+the : 10
+of : 8
+and : 8
+ai : 7
+as : 5
+in : 5
+was : 5
+were : 4
+to : 4
+by : 4
