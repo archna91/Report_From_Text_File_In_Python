@@ -24,7 +24,4 @@ Sample Input file
 
 alice.txt
 
-Results
-Once completed, please send your all your source code, and generated reports(s) to
-Sarath.kumar@fisglobal.com
-Please note that results should be sent to above emails within 6 hours of receiving this assessment.
+
